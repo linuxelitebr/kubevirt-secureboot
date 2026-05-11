@@ -1,0 +1,12 @@
+# kubeconfig leftovers
+*kubeconfig*
+.kube/
+
+# editor / OS noise
+*.sw?
+*.bak
+*~
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
